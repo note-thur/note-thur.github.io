@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://note-thur.github.io
+title: ancjo
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
